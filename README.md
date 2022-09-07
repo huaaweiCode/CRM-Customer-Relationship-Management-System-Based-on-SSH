@@ -1,10 +1,6 @@
 # 基于SSH的CRM客户关系管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ：**客户1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -66,12 +62,4 @@
 ![统计报表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191637259.jpg)
 
 ![数据字典管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191637001.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**客户1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
